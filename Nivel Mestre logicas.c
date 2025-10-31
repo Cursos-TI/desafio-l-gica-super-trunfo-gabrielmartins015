@@ -172,7 +172,7 @@
     float soma2 = valorB1 + valorB2;
 
     // --- RESULTADOS ---
-    printf("\n--- RESULTADO DA COMPARACAO ---\n");
+    printf("\n--- RESULTADO DA COMPARAÇÃO ---\n");
     printf("Cidade 1: %s\nCidade 2: %s\n\n", cidade, cidade2);
     printf("Atributo 1 (opcao %d): %.2f vs %.2f\n", opcao, valorA1, valorB1);
     printf("Atributo 2 (opcao %d): %.2f vs %.2f\n", opcao2, valorA2, valorB2);
